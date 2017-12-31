@@ -1,5 +1,5 @@
 # Site settings
-title: Another Blog
+title: 狗没拿伞的博客
 url: "http://banrino.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "/" # the prefix of your site uri, eg. `/jekyll-theme-EasyBook` or just one slash `/`
 #timezone: Asia/Chongqing
@@ -12,7 +12,7 @@ author: 狗没拿伞
 avatar: "/img/avatar.jpg"
 profile: 编程学习爱好者.
 #twitter_username: twitter_username
-#github_username:  github_username
+github_username:  banrino
 
 # Comment Service (Disqus or 多说)
 #  choose one and un-comment the line to active it
