@@ -4,7 +4,7 @@ title:  "使用JsonSerializer转换Date"
 date:   2018-05-27 20:00
 categories: Java
 tags: JsonSerializer,Java,Date
-permalink: /archivers/Java/Date2Long
+permalink: /archivers/JavaDate2Long
 ---
 
 &emsp;今天遇到了这样一种业务场景，其中返回createTime和updateTime的时间戳，
